@@ -3,6 +3,12 @@ import Link from 'next/link'
 
 export default function Home() {
   return (
+    <>
+    
+    <Head>
+      <title>Create Next App</title>
+      <link rel='icon' href="/favicon.ico" />
+    </Head>
     <div>
       <h1 className='title'>
         Read{' '}
@@ -12,5 +18,6 @@ export default function Home() {
       </Link>
       </h1>
     </div>
+    </>
   )
 }
