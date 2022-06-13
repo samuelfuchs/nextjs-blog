@@ -1,6 +1,6 @@
 # A simple Blog created with NextJs.
 
-### Technologies used:
+### Main features:
 
 - ReactJs / NextJs
 - Libraries: remark, gray-matter, date-fns
